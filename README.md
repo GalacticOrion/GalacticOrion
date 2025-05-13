@@ -1,33 +1,15 @@
-<h2 align="left">Hi there, I'm Ravi Thakur! 👋<br>I'm a student and aspiring web developer exploring the world of full-stack development, working on small projects to improve my skills.<br><br>🌱 What I'm Learning:<br>Frontend development with React<br>Backend with Node.js & Express.js<br>Databases with MongoDB<br>Basics of cloud computing (Google Cloud Certified)<br>Exploring Android and Application development with React Native and Tkinter.<br><br>💡 Projects:<br>A Quote of the Day website<br>A monthly expense tracker<br>Password Generator<br>Converting PC apps to Android apps<br>Expenses Manager<br>I'm always eager to learn and build new things! Feel free to check out my projects  😊</h2>
+<h1 align="center">Hi 👋, I'm Ravi Thakur</h1>
+<h3 align="center">I'm a student and aspiring web developer exploring the world of full-stack development, working on small projects to improve my skills.</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=galacticorion&label=Profile%20views&color=0e75b6&style=flat" alt="galacticorion" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GalacticOrion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GalacticOrion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galacticorion" alt="galacticorion" /></a> </p>
 
-###
+🌱 What I'm Learning:<br>Frontend development with React<br>Backend with Node.js & Express.js<br>Databases with MongoDB<br>Basics of cloud computing (Google Cloud Certified)<br>Exploring Android and Application development with React Native and Tkinter.<br><br>💡 Projects:<br>A Quote of the Day website<br>A monthly expense tracker<br>Password Generator<br>
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <div align="left">
   <a href="rkt2291@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -36,6 +18,16 @@
   </a>
 </div>
 
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galacticorion&show_icons=true&locale=en&layout=compact" alt="galacticorion" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galacticorion&show_icons=true&locale=en" alt="galacticorion" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galacticorion&" alt="galacticorion" /></p>
 
 
 <picture>
